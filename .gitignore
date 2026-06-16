@@ -1,0 +1,17 @@
+#ignorar saves locais
+save/
+www/save
+
+#ignorar arquivos de buid e caches do sistema
+*.exe
+*.dll
+*.pak
+*.bin
+*.dat
+
+#ignorar o que não seja interessante para não pesar o projeto
+audio/
+fonts/
+icon/
+img/
+movies/
